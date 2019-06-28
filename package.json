@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/javier5/horizon-dashboard-mock/issues"
+    "url": "https://github.com/javier5/javier-personal-web/issues"
   },
-  "homepage": "https://github.com/javier5/horizon-dashboard-mock#readme",
+  "homepage": "https://github.com/javier5/javier-personal-web#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
